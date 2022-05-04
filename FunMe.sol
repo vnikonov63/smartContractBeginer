@@ -3,8 +3,9 @@
 pragma solidity >=0.6.6 <0.9.0;
 
 // downloadind the code from @chainlink/contracts npm package
-import "@chainlink/contracts/src/v0.6/interfaces/AggregatorV3Interface.sol";
-import "@chainlink/contracts/src/v0.6/vendor/SafeMathChainlink.sol";
+// import "@chainlink/contracts/src/v0.6/interfaces/AggregatorV3Interface.sol";
+// import "@chainlink/contracts/src/v0.6/vendor/SafeMathChainlink.sol";
+// uncomment this later
 
 // getting from here https://github.com/smartcontractkit/chainlink/blob/develop/contracts/src/v0.6/interfaces/AggregatorV3Interface.sol
 
